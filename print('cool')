@@ -1,2 +1,5 @@
 print('cool')
 print('yesgit status')
+a=5 
+b=6
+print(a+b)
